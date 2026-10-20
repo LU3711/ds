@@ -1,0 +1,13 @@
+{
+  "owner_qq": 123456789,
+  "ws_url": "ws://127.0.0.1:3001",
+  "ws_token": "",
+  "deepseek_api_key": "",
+  "api_base": "https://api.deepseek.com",
+  "model": "deepseek-chat",
+  "max_tokens": 80,
+  "temperature": 1.0,
+  "min_interval": 1.0,
+  "max_history": 40,
+  "persona_file": "persona.md"
+}
